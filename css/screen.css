@@ -312,6 +312,9 @@ article.white {
     article.white .work-description-region .row .col-xs-5 {
       padding: 82px 5px 20px 9px; }
     @media (max-width: 768px) {
+    article.white .work-description-region .row .col-xs-5 {
+      padding: 10px 5px 20px 9px; 
+      }
       article.white .work-description-region .row .col-xs-5 img.pull-left {
         float: none !important;
         display: block;
